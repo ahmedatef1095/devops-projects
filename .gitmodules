@@ -1,0 +1,3 @@
+[submodule "01-ec2-standby"]
+	path = 01-ec2-standby
+	url = https://github.com/ahmedatef1095/01-ec2-standby.git
